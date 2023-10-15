@@ -1,0 +1,1 @@
+tarjeta de componente de calificación interactivo.
